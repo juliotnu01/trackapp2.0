@@ -1,0 +1,7 @@
+{
+  "name": "trackappion2.0",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
