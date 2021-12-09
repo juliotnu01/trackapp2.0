@@ -29,6 +29,10 @@ const routes = [
       {
         path: 'tab4',
         component: () => import('@/views/Tab4.vue')
+      },
+      {
+        path: 'view-unit',
+        component: () => import('@/views/viewUnit.vue')
       }
     ]
   }
